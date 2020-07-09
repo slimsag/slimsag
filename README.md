@@ -1,4 +1,4 @@
-# About me
+## About me
 
 At [Sourcegraph](https://sourcegraph.com) I am actively improving the lives of developers everywhere, as a jack-of-all-trades for the past 5 years.
 
