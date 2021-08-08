@@ -2,7 +2,7 @@
   <a href="https://hexops.com"><img height="50px" alt="Hexops - Experiment everywhere" src="https://raw.githubusercontent.com/hexops/media/main/logo_whitebg.svg"></img></a>
   <a href="https://github.com/hexops/mach"><img height="50px" alt="Mach - Game engine & graphics toolkit for the future" src="https://raw.githubusercontent.com/hexops/media/main/mach/logo_whitebg.svg"></img></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://sourcegraph.com/search"><img height="40px" alt="Sourcegraph" src="https://about.sourcegraph.com/sourcegraph-logo.svg"></img></a>
+  <a href="https://sourcegraph.com/search"><img height="40px" alt="Sourcegraph" src="https://raw.githubusercontent.com/sourcegraph/sourcegraph/8242c23a372c784c512bcd1eefbb52e656609a29/ui/assets/img/sourcegraph-logo.svg"></img></a>
 </p>
 
 * [Mach engine](https://github.com/hexops/mach), a game engine for the future in Zig
