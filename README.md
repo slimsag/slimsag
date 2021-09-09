@@ -12,9 +12,8 @@
 
 **[Sponsor me](https://github.com/sponsors/slimsag) if you like my work!** I'm trying my best to make you proud :)
 
+![](https://github-readme-stats-one-bice.vercel.app/api?username=slimsag&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&hide_title=true)
+
 ---
 
-* [Hexops devlog](https://devlog.hexops.com/)
-* [More about me & my life journey](https://slimsag.com)
-* [My cats](https://imgur.com/gallery/m6FxZ85)
-* Developer [@sourcegraph](https://sourcegraph.com) for 6+ years
+[Hexops devlog](https://devlog.hexops.com/) | [About me](https://slimsag.com) | [My cats](https://imgur.com/gallery/m6FxZ85) | Developer [@sourcegraph](https://sourcegraph.com) for 6+ years
