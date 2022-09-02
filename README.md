@@ -1,19 +1,11 @@
-<p align="center">
-  <a href="https://hexops.com"><img height="50px" alt="Hexops - Experiment everywhere" src="https://raw.githubusercontent.com/hexops/media/main/logo_whitebg.svg"></img></a>
-  <a href="https://github.com/hexops/mach"><img height="50px" alt="Mach - Game engine & graphics toolkit for the future" src="https://raw.githubusercontent.com/hexops/media/main/mach/logo_whitebg.svg"></img></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://sourcegraph.com/search"><img height="40px" alt="Sourcegraph" src="https://raw.githubusercontent.com/sourcegraph/sourcegraph/8242c23a372c784c512bcd1eefbb52e656609a29/ui/assets/img/sourcegraph-logo.svg"></img></a>
-</p>
+Stephen here! I'm building [Mach engine](https://machengine.org) so that anyone can create games, visualizations, and desktop/mobile apps in Zig. The goal is to be competitive in spirit with Godot/Unity/Unreal, but more composable, data-driven & tooling oriented.
 
-* [Mach engine](https://github.com/hexops/mach), a game engine for the future in Zig
-* [zigmonthly.org](https://zigmonthly.org), monthly curated news about Zig
-* [Zorex](https://github.com/hexops/zorex), the omnipotent regex engine
-* [Tridex](https://github.com/hexops/zorex), a new kind of (code) search engine.
+I also work at a startup called Sourcegraph [building developer tools](https://slimsag.com) for the last ~8 years. [FOSS is in my roots](https://devlog.hexops.com/2021/increasing-my-contribution-to-zig-to-200-a-month/#i-grew-up-playing-linux-games-like-mania-drive), though, and I dream of creating games and being 100% beholden to individuals. :)
 
-**[Sponsor me](https://github.com/sponsors/slimsag) if you like my work!** I'm trying my best to make you proud :)
+Besides living two lives (full-time startup job & working on Mach ~40h/week), I care for a [small army of cats.](https://imgur.com/gallery/m6FxZ85)
 
-![](https://github-readme-stats-one-bice.vercel.app/api?username=slimsag&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&hide_title=true)
+### Links
 
----
-
-[Hexops devlog](https://devlog.hexops.com/) | [About me](https://slimsag.com) | [My cats](https://imgur.com/gallery/m6FxZ85) | Developer [@sourcegraph](https://sourcegraph.com) for 6+ years
+* [Sponsor my work](https://github.com/sponsors/slimsag)
+* [Hexops devlog](https://devlog.hexops.com/)
+* [@slimsag on Twitter](https://twitter.com/slimsag)
